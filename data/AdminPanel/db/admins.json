@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "username": "CyberSameer",
+    "full_name": "Sameer",
+    "email": "cybersameers1@gmail.com",
+    "role": "superadmin",
+    "is_active": true,
+    "permissions": ["*"],
+    "created_at": "2026-11-26T00:00:00Z"
+  }
+]

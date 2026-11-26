@@ -1,0 +1,3 @@
+CyberSameer Admin Panel - Central Data Store
+All panel data, credentials, sessions, logs live here.
+Managed by JARVIS Engine for DeveloperCyberSameer.

@@ -1,0 +1,1 @@
+Bot data store for Bot2

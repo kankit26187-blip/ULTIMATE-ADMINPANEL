@@ -1,0 +1,5 @@
+{
+  "superadmin": ["*"],
+  "admin": ["dashboard", "apps", "licenses", "devices", "sessions", "notifications"],
+  "viewer": ["dashboard", "analytics"]
+}
