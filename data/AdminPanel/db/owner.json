@@ -4,7 +4,7 @@
   "email": "cybersameers1@gmail.com",
   "role": "superadmin",
   "is_owner": true,
-  "password_hash": "pbkdf2:sha256:260000$temp$will_be_updated",
+  "password_hash": "pbkdf2:sha256:260000$deAJW8clcSi4Lss4$bea58020d26b8569e4f1445737feda5afcb7a59e105bb1e79cdaa203ff2fe70f",
   "is_active": true,
   "otp_enabled": false,
   "created_at": "2026-11-26T00:00:00Z"
